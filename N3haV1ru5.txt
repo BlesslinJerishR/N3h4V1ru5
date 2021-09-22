@@ -6,7 +6,7 @@ def 几੩卄卂 V1ru5?():
                       may misuse IT . I have not damaged a single file .
                       Thank You.
               """,
-  'DevSign' : "David Billa",
+  'DevSign' : "David Billa";
 
 if __init__ = 'don't':
    几੩卄卂 V1ru5?()
